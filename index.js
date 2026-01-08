@@ -11,4 +11,3 @@ let a={
     }
 };
 a.country="india";
-console.log(a.address.city)
